@@ -1,0 +1,10 @@
+.img{
+    background-color: green;
+}
+.img1{
+    z-index: -1;
+}
+.navbar{
+    margin-top: 0px;
+    z-index: 9;
+}
